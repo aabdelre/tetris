@@ -1,0 +1,9 @@
+C:/Users/Ahmed Abdelrehim/OneDrive/Documents/GitHub/tetris/build/CMakeFiles/Experimental.dir
+C:/Users/Ahmed Abdelrehim/OneDrive/Documents/GitHub/tetris/build/CMakeFiles/Nightly.dir
+C:/Users/Ahmed Abdelrehim/OneDrive/Documents/GitHub/tetris/build/CMakeFiles/Continuous.dir
+C:/Users/Ahmed Abdelrehim/OneDrive/Documents/GitHub/tetris/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Ahmed Abdelrehim/OneDrive/Documents/GitHub/tetris/build/CMakeFiles/tetris.dir
+C:/Users/Ahmed Abdelrehim/OneDrive/Documents/GitHub/tetris/build/CMakeFiles/PACKAGE.dir
+C:/Users/Ahmed Abdelrehim/OneDrive/Documents/GitHub/tetris/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Ahmed Abdelrehim/OneDrive/Documents/GitHub/tetris/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Ahmed Abdelrehim/OneDrive/Documents/GitHub/tetris/build/CMakeFiles/ZERO_CHECK.dir

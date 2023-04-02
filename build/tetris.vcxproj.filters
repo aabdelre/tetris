@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Ahmed Abdelrehim\OneDrive\Documents\GitHub\tetris\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ahmed Abdelrehim\OneDrive\Documents\GitHub\tetris\game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ahmed Abdelrehim\OneDrive\Documents\GitHub\tetris\board.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ahmed Abdelrehim\OneDrive\Documents\GitHub\tetris\piece.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ahmed Abdelrehim\OneDrive\Documents\GitHub\tetris\cell.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Ahmed Abdelrehim\OneDrive\Documents\GitHub\tetris\game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ahmed Abdelrehim\OneDrive\Documents\GitHub\tetris\board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ahmed Abdelrehim\OneDrive\Documents\GitHub\tetris\piece.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ahmed Abdelrehim\OneDrive\Documents\GitHub\tetris\cell.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ahmed Abdelrehim\OneDrive\Documents\GitHub\tetris\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3F314333-8D33-36F7-BB55-6E783032AAD3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A0AA214A-BF48-39AE-9798-22001AF3D3F7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

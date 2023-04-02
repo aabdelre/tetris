@@ -1,0 +1,10 @@
+^C:\USERS\AHMED ABDELREHIM\ONEDRIVE\DOCUMENTS\GITHUB\TETRIS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Ahmed Abdelrehim/OneDrive/Documents/GitHub/tetris" "-BC:/Users/Ahmed Abdelrehim/OneDrive/Documents/GitHub/tetris/build" --check-stamp-file "C:/Users/Ahmed Abdelrehim/OneDrive/Documents/GitHub/tetris/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^C:\USERS\AHMED ABDELREHIM\ONEDRIVE\DOCUMENTS\GITHUB\TETRIS\BUILD\CMAKEFILES\5185F6F6C7EF5993E820B68B14FFFA4C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Ahmed Abdelrehim/OneDrive/Documents/GitHub/tetris" "-BC:/Users/Ahmed Abdelrehim/OneDrive/Documents/GitHub/tetris/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Ahmed Abdelrehim/OneDrive/Documents/GitHub/tetris/build/tetris.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
